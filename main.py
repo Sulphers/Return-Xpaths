@@ -20,3 +20,4 @@ if __name__ == '__main__':
     url = 'https://sulphers.github.io'
     xpath = "//div[@class='hero-content']"
     res = extraire_content(url, xpath)
+
